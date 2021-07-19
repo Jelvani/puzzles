@@ -1,0 +1,6 @@
+# Ages of Children
+
+A conversation took place between two friends - a philosopher and a mathematician who had not seen or heard from each other in years. The mathematician, who had an exceedingly good memory, asked the philosopher how many children he had. The philosopher replied that he had three. The mathematician then asked how old they were. His friend, who knew how most mathematicians enjoy puzzles, said he would give him a number of clues to his children's ages. The philosopher's first clue: "The product of the children's ages is 36". The mathematician replied that this was insufficient information. The philosopher's second clue: "All of the children's ages are integers - there are no fractional ages". Still the mathematician could not deduce the correct answer. The philosopher's third clue: "The sum of the three children's ages is identical to the address of the house where we played chess together, years ago". The mathematician still required more information. The philosopher gave his fourth clue: "The eldest child looks like me". At this point, the mathematician was able to determine the ages of the children.
+How old are the three children?
+
+[Solution](solution.md)
