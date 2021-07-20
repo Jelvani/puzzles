@@ -5,6 +5,7 @@ This repo contains my solutions to random puzzles. Each link to the puzzle will 
 ## Puzzles
 * [Four men crossing a bridge](puzzles/bridge4/puzzle.md)
 * [Ages of Children](puzzles/ages/puzzle.md)
+* [Make 100](puzzles/make100/puzzle.md)
 
 ## Sources
 
