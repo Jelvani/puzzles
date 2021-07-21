@@ -6,7 +6,7 @@ This repo contains my solutions to random puzzles. Each link to the puzzle will 
 * [Four men crossing a bridge](puzzles/bridge4/puzzle.md)
 * [Ages of Children](puzzles/ages/puzzle.md)
 * [Make 100](puzzles/make100/puzzle.md)
-
+* [Perfect Squares](puzzles/perfectsquares/puzzle.md)
 ## Sources
 
 * [Paul Bourke](http://paulbourke.net/fun/)
