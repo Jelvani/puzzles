@@ -7,6 +7,7 @@ This repo contains my solutions to random puzzles. Each link to the puzzle will 
 * [Ages of Children](puzzles/ages/puzzle.md)
 * [Make 100](puzzles/make100/puzzle.md)
 * [Perfect Squares](puzzles/perfectsquares/puzzle.md)
+* [Poison Wine](puzzles/poison/puzzle.md)
 ## Sources
 
 * [Paul Bourke](http://paulbourke.net/fun/)
